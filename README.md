@@ -16,5 +16,53 @@ Click "Download ZIP"
 <br>
 
 ![](images/extract.png)
+<br>
 
-This are some images of the website: 
+* Open the folder named "holberton-headphones-main" and click in 4-index.html to watch the web page fully completed:
+<br>
+
+![](images/open.png)
+<br>
+
+![](images/chrome.png)
+<br>
+
+* The other index files are like the timeline of making this web page.
+
+## Some screenshots of the web page:
+
+* <b>Desktop</b>
+<br>
+
+![](images/desktop_1.png)
+<br>
+
+![](images/desktop_2.png)
+<br>
+
+![](images/desktop_3.png)
+<br>
+
+![](images/desktop_4.png)
+<br>
+
+![](images/desktop_5.png)
+<br>
+
+* <b>Responsive</b>
+<br>
+
+![](images/responsive_1.png)
+<br>
+
+![](images/responsive_2.png)
+<br>
+
+![](images/responsive_3.png)
+<br>
+
+![](images/responsive_4.png)
+<br>
+
+![](images/responsive_5.png)
+<br>
